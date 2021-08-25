@@ -1,0 +1,156 @@
+#header{
+	background-color:#ff4c68;
+	color:#fff;
+	padding:5% 10%;
+	
+}
+
+#menu{
+	color:#fff;
+}
+.title{
+	padding-top:50px;
+}
+.title h1{
+	font-size:4rem;
+	
+}
+h1{
+font-family: 'Montserrat-Black';
+
+line-height:1.5;
+}
+.title_text{
+	font-family: 'Montserrat-Thin';
+font-size:1.3rem;
+line-height:1.5;
+}
+
+.container{
+	padding:3% 15%;
+	
+	
+}
+.profile_pic{
+	margin-top:30px;
+	width:300px;
+	height:400px;
+	border-radius: 50px;
+
+	
+}
+.btn{
+	margin:3% 1% 2% 3%;
+}
+
+
+#menu{
+	background-color:#867AE9;
+	height:40px;
+	
+}
+
+
+.headline{
+	padding-top:6px;
+	padding-left:105px;
+}
+#menu li{
+	display:inline-block;
+	padding-top:10px;
+	
+	
+}
+#menu li a{
+	text-decoration:none;
+	padding:10px 13px;
+	color:#fff;
+	font-weight:bold;
+}
+#menu li a:hover{
+	background-color:#FDEFEF;
+	color:white;
+}
+#content{
+	padding:3% 10%;
+	background-color:#fff;
+}
+.content_heading{
+ margin:4% 30%;
+ text-align:center;
+} 
+.content_feature{
+	text-align:center;
+	padding:2% ;
+}
+.feature_text{
+	color:#8f8f8f;
+}
+.img_feature{
+	width:50px;
+	height:50px;
+	margin-bottom:1rem;
+}
+.underline{
+	border: dotted #ff4c68 7px;
+	border-bottom:none;
+	width:6%;
+	margin:40px auto;
+	background-color: white;
+	opacity:1;
+	
+}
+#middle_container{
+	text-align:center;
+	background-color:#ff4c68;
+	color:#fff;
+	padding:7% 10%;
+}
+.middle_container_image{
+	width:10%;
+	border-radius:100%;
+}
+.experience{
+margin-bottom:5%;
+padding-top:3%;
+}
+span{
+	font-weight:bold;
+}
+.title  a {
+	text-decoration:none:
+}
+@media (max-width:900px){
+	.col{
+		font-size:10px;
+		
+		
+	}
+	.headline{
+	     font-size:15px;
+		 padding-top:10px;
+		 
+	}
+
+#header{
+
+  text-align:center;	
+	
+}
+	
+	
+}
+.learn_icon{
+	width:100px;
+	height:100px;
+}
+#footer{
+	padding:5% 15%;
+	text-align:center;
+}
+.new_skills{
+	font-family: 'Montserrat-Black';
+	font-weight:bold;
+	 padding-bottom:30px;
+	
+}
